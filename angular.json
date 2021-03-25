@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bienal-angular"
+    }
+  },
+  "defaultProject": "bienal-angular",
+  "cli": {
+    "analytics": false
+  }
 }
