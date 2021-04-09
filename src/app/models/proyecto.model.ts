@@ -10,6 +10,7 @@ export class ProyectoModel {
     autor3?: string;
     autor4?: string;
     estado?: boolean;
+    criterios?: string;
     
 
 }
