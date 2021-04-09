@@ -7,7 +7,6 @@ export class ProyectoModel {
     cuerpo?: string;
     autor?: string;
     autor2?: string;
-    autor3?: string;
     estado?: boolean;
     criterios?: string;
     
